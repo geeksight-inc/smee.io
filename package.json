@@ -71,7 +71,8 @@
     "smee-client": "^1.1.0",
     "style-loader": "^1.2.1",
     "supertest": "^4.0.2",
-    "webpack": "^4.43.0"
+    "webpack": "^4.44.2",
+    "webpack-cli": "4.0.0"
   },
   "engines": {
     "node": "12.x.x"
